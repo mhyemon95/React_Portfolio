@@ -1,0 +1,60 @@
+.timeline {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .timeline h2 {
+    text-align: center;
+    color: #353252;
+  }
+  
+  .timeline ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .timeline .event {
+    margin-bottom: 20px;
+  }
+  
+  .timeline .event-year {
+    font-weight: bold;
+    color: #555;
+  }
+  .timeline .event-position {
+    margin-left: 30px;
+    padding: 10px;
+    background: #f4f4f4;
+    border-left: 2px solid #ccc;
+  }
+  
+  .timeline .event-description {
+    margin-left: 30px;
+    padding: 10px;
+    background: #f4f4f4;
+    border-left: 2px solid #ccc;
+  }
+  
+  .timeline .time {
+    margin-bottom: 20px;
+  }
+  
+  .timeline .time-year {
+    font-weight: bold;
+    color: #555;
+  }
+  .timeline .time-position {
+    margin-left: 30px;
+    padding: 10px;
+    background: #f4f4f4;
+    border-left: 2px solid #ccc;
+  }
+  
+  .timeline .time-description {
+    margin-left: 30px;
+    padding: 10px;
+    background: #f4f4f4;
+    border-left: 2px solid #ccc;
+  }
+  
